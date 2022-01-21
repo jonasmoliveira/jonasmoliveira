@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasmoliveira
 - 👀 I’m interested in software/web/mobile engineering/development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++/C#/.NET/Java
 - 💞️ I’m looking to collaborate on projects for beginners
 - 📫 How to reach me ...
 
